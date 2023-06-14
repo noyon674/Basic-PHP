@@ -7,7 +7,7 @@ for($i=0; $i<10; $i++){
 echo "<br>";
 
 ////////// while loop ///////////
-echo "////////////////while loop <br>";
+echo "/////////////////while loop <br>";
 $x = 10;
 while($x > 5){
     echo "I am: $x <br>";
